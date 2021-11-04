@@ -1,0 +1,23 @@
+{
+  "name": "juejin_signin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolerobinn/juejin_signIn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolerobinn/juejin_signIn/issues"
+  },
+  "homepage": "https://github.com/Nicolerobinn/juejin_signIn#readme",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
